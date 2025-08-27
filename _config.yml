@@ -1,0 +1,11 @@
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+  
+title: Tom Arney's dev site
+description: Tom Arney is a geochemist who plays around with tech stuff. This is his playground.
